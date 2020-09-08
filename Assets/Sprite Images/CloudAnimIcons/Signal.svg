@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="63px" height="63px" viewBox="0 0 63 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Signal.svg</title>
+    <desc>Created with Sketch.</desc>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Command-Demo-5" transform="translate(-349.000000, -83.000000)" fill="#353434" fill-rule="nonzero">
+            <g id="Group" transform="translate(40.000000, 25.000000)">
+                <path d="M309,121 L320.454545,121 C320.454545,92.5354545 343.535455,69.4545455 372,69.4545455 L372,58 C337.235455,58 309,86.2354545 309,121 Z M355,121 L372,121 L372,104 C362.593333,104 355,111.593333 355,121 Z M333,121 L344.142857,121 C344.142857,105.622857 356.622857,93.1428571 372,93.1428571 L372,82 C350.438571,82 333,99.4385714 333,121 Z" id="Signal.svg"></path>
+            </g>
+        </g>
+    </g>
+</svg>

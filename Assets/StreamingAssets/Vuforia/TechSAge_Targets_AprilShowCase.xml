@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="awarhomeFloorplanText" size="0.457200 0.457200" />
+    <ImageTarget name="Needs_info" size="0.152400 0.152400" />
+    <ImageTarget name="Does_info" size="0.152400 0.152400" />
+    <ImageTarget name="Dot_Big" size="0.152400 0.152400" />
+    <ImageTarget name="Echo_Big" size="0.152400 0.152400" />
+    <ImageTarget name="Hue_Big" size="0.152400 0.152400" />
+    <ImageTarget name="Nest_Big" size="0.152400 0.152400" />
+    <ImageTarget name="Amazon_Echo" size="0.050800 0.102982" />
+    <ImageTarget name="Echo_Dot" size="0.050800 0.102982" />
+    <ImageTarget name="nest_thermostat" size="0.050800 0.103688" />
+    <ImageTarget name="Hue_Lights" size="0.050800 0.103688" />
+    <ImageTarget name="floorplan_sized" size="0.457200 0.457200" />
+  </Tracking>
+</QCARConfig>
